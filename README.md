@@ -15,11 +15,11 @@ Content-based filtering suggests items similar to those a user has previously li
 # 2. Collaborative Filtering
 Collaborative filtering analyzes user-item interactions to make recommendations. It can be further divided into two subtypes:
 
-User-Based Collaborative Filtering: Recommends items based on the preferences of similar users.
-Item-Based Collaborative Filtering: Recommends items similar to those a user has already liked.
+1. User-Based Collaborative Filtering: Recommends items based on the preferences of similar users.
+2. Item-Based Collaborative Filtering: Recommends items similar to those a user has already liked.
 Getting Started
-Data Collection: Gather movie data, including attributes like genre, cast, and director.
-Data Preprocessing: Clean and transform the data into a usable format.
-Feature Extraction: Create feature vectors for movies (e.g., using TF-IDF for text-based features).
-Cosine Similarity Calculation: Compute cosine similarity between movie vectors.
-Recommendation Generation: Based on user preferences and similarity scores, recommend movies.
+3. Data Collection: Gather movie data, including attributes like genre, cast, and director.
+4. Data Preprocessing: Clean and transform the data into a usable format.
+5. Feature Extraction: Create feature vectors for movies (e.g., using TF-IDF for text-based features).
+6. Cosine Similarity Calculation: Compute cosine similarity between movie vectors.
+7. Recommendation Generation: Based on user preferences and similarity scores, recommend movies.
