@@ -17,7 +17,7 @@ Collaborative filtering analyzes user-item interactions to make recommendations.
 
 1. User-Based Collaborative Filtering: Recommends items based on the preferences of similar users.
 2. Item-Based Collaborative Filtering: Recommends items similar to those a user has already liked.
-Getting Started
+# Getting Started
 3. Data Collection: Gather movie data, including attributes like genre, cast, and director.
 4. Data Preprocessing: Clean and transform the data into a usable format.
 5. Feature Extraction: Create feature vectors for movies (e.g., using TF-IDF for text-based features).
